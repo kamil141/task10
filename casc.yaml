@@ -1,0 +1,6 @@
+jenkins:
+  securityRealm:
+    local:
+      users:
+       - id: jenkins-admin
+         password: butler
